@@ -1,6 +1,10 @@
-O Impacto das IAs Generativas no Serviço Público Brasileiro 📒 Descrição  Este e-book de 8 páginas explora os impactos positivos que a utilização de IA Generativa pode trazer ao país, através da aplicação no serviço público.   
+## O Impacto das IAs Generativas no Serviço Público Brasileiro 
 
-Tecnologias Utilizadas
+## 📒 Descrição  
+
+Este e-book de 8 páginas explora os impactos positivos que a utilização de IA Generativa pode trazer ao país, através da aplicação no serviço público.   
+
+## 🤖 Tecnologias Utilizadas
 
 IA Generativa Chat GPT para roteirização
 
